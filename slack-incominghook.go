@@ -1,3 +1,11 @@
+/**
+Slack Incoming WebHooks
+
+Copyright (c) 2016 jp-minaki
+
+This software is released under the MIT License.
+http://opensource.org/licenses/mit-license.php
+*/
 package main
 
 import (
