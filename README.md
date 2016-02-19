@@ -1,5 +1,5 @@
 # Description
-Postting Message Into Slack.
+Posting Message Into Slack.
 
 
 # Example
