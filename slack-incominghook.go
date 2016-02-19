@@ -50,11 +50,9 @@ func main() {
 	if err != nil {
 		fmt.Println(err)
 	}
-
 	defer resp.Body.Close()
-
 	body, _ := ioutil.ReadAll(resp.Body)
-	defer resp.Body.Close()
+	//defer resp.Body.Close()
 
 	println(string(body))
 }
